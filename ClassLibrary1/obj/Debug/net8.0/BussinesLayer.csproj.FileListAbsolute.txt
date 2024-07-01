@@ -1,0 +1,24 @@
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\ClassLibrary1\bin\Debug\net8.0\BussinesLayer.deps.json
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\ClassLibrary1\bin\Debug\net8.0\BussinesLayer.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\ClassLibrary1\bin\Debug\net8.0\BussinesLayer.pdb
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\ClassLibrary1\obj\Debug\net8.0\BussinesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\ClassLibrary1\obj\Debug\net8.0\BussinesLayer.AssemblyInfoInputs.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\ClassLibrary1\obj\Debug\net8.0\BussinesLayer.AssemblyInfo.cs
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\ClassLibrary1\obj\Debug\net8.0\BussinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\ClassLibrary1\obj\Debug\net8.0\BussinesLayer.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\ClassLibrary1\obj\Debug\net8.0\refint\BussinesLayer.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\ClassLibrary1\obj\Debug\net8.0\BussinesLayer.pdb
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\ClassLibrary1\obj\Debug\net8.0\ref\BussinesLayer.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\ClassLibrary1\obj\Debug\net8.0\BussinesLayer.csproj.AssemblyReference.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\ClassLibrary1\bin\Debug\net8.0\BussinesLayer.deps.json
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\ClassLibrary1\bin\Debug\net8.0\BussinesLayer.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\ClassLibrary1\bin\Debug\net8.0\BussinesLayer.pdb
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\ClassLibrary1\obj\Debug\net8.0\BussinesLayer.csproj.AssemblyReference.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\ClassLibrary1\obj\Debug\net8.0\BussinesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\ClassLibrary1\obj\Debug\net8.0\BussinesLayer.AssemblyInfoInputs.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\ClassLibrary1\obj\Debug\net8.0\BussinesLayer.AssemblyInfo.cs
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\ClassLibrary1\obj\Debug\net8.0\BussinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\ClassLibrary1\obj\Debug\net8.0\BussinesLayer.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\ClassLibrary1\obj\Debug\net8.0\refint\BussinesLayer.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\ClassLibrary1\obj\Debug\net8.0\BussinesLayer.pdb
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\ClassLibrary1\obj\Debug\net8.0\ref\BussinesLayer.dll

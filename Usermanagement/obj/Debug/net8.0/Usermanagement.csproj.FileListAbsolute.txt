@@ -1,0 +1,188 @@
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.csproj.AssemblyReference.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.AssemblyInfoInputs.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.AssemblyInfo.cs
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.csproj.CoreCompileInputs.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\appsettings.json
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Usermanagement.exe
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Usermanagement.deps.json
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Usermanagement.runtimeconfig.json
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Usermanagement.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Usermanagement.pdb
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\BussinesLayer.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\BussinesLayer.pdb
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\staticwebassets\msbuild.Usermanagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\staticwebassets\msbuild.build.Usermanagement.props
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Usermanagement.props
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Usermanagement.props
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\scopedcss\bundle\Usermanagement.styles.css
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermana.51DF0CCA.Up2Date
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\refint\Usermanagement.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.pdb
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.genruntimeconfig.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\obj\Debug\net8.0\ref\Usermanagement.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\New folder (2)\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.csproj.AssemblyReference.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.AssemblyInfoInputs.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.AssemblyInfo.cs
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.csproj.CoreCompileInputs.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\refint\Usermanagement.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.pdb
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\appsettings.json
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Usermanagement.exe
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Usermanagement.deps.json
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Usermanagement.runtimeconfig.json
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Usermanagement.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Usermanagement.pdb
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\BussinesLayer.dll
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\bin\Debug\net8.0\BussinesLayer.pdb
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\staticwebassets\msbuild.Usermanagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\staticwebassets\msbuild.build.Usermanagement.props
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Usermanagement.props
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Usermanagement.props
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\scopedcss\bundle\Usermanagement.styles.css
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermana.51DF0CCA.Up2Date
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\Usermanagement.genruntimeconfig.cache
+C:\Users\nonaz\OneDrive\Рабочий стол\Usermanagement\Usermanagement\obj\Debug\net8.0\ref\Usermanagement.dll
